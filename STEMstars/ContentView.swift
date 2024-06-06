@@ -12,7 +12,7 @@ struct ContentView: View {
         
         ZStack {
          
-            Color.yellow.opacity(0.3)
+            Color.red.opacity(0.3)
                 .ignoresSafeArea()
             VStack(alignment: .center, spacing: 15.0){
                 Text("Women In STEM")
